@@ -1,5 +1,5 @@
 """
-Student Learning Curriculum for Data Science Lab.
+Student Learning Curriculum for Data Science Learning Studio.
 
 Structured educational content for BS Data Science students,
 organised by topic area with quizzes, exercises, and progression.
