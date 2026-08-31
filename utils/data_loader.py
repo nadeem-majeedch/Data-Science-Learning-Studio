@@ -1,5 +1,5 @@
 """
-Data loading utilities for Data Science Lab.
+Data loading utilities for Data Science Learning Studio.
 
 Handles CSV, TSV, and XLSX file uploads, as well as loading built-in
 sample datasets from the ``datasets/`` directory.  Every function
