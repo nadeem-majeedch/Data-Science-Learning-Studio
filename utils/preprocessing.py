@@ -1,5 +1,5 @@
 """
-Preprocessing utilities for Data Science Lab.
+Preprocessing utilities for Data-Science-Learning-Studio.
 
 Provides reusable functions that build sklearn ``Pipeline`` and
 ``ColumnTransformer`` objects so that preprocessing steps can be
