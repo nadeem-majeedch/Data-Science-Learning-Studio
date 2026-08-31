@@ -1,5 +1,5 @@
 """
-Practice mode for Data Science Lab.
+Practice mode for Data Science Learning Studio.
 
 Provides structured, academically-focused challenges where students
 apply what they've learned.  Each challenge:
