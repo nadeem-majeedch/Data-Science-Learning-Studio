@@ -6,7 +6,7 @@ An interactive, open-source learning platform built with **Python** and **Stream
 
 ## 🎯 Purpose
 
-Data Science Lab provides a hands-on, browser-based environment where students can learn and practice every stage of the data science workflow through an intuitive graphical interface. No command-line expertise required.
+Data-Science-Learning-Studio provides a hands-on, browser-based environment where students can learn and practice every stage of the data science workflow through an intuitive graphical interface. No command-line expertise required.
 
 ---
 
