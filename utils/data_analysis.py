@@ -1,5 +1,5 @@
 """
-Data analysis utilities for Data Science Lab.
+Data analysis utilities for Data Science Learning Studio.
 
 Pure functions that operate on pandas DataFrames and return structured
 results.  These are consumed by the Dataset Explorer page and can be
