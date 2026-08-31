@@ -69,8 +69,8 @@ This application requires **Python 3.9+**. Streamlit Community Cloud defaults to
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd Data-Science-Lab
+git clone https://github.com/nadeem-majeedch/Data-Science-Learning-Studio.git
+cd Data-Science-Learning-Studio
 
 # Create virtual environment
 python -m venv venv
