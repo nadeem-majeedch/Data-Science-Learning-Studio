@@ -1,4 +1,4 @@
-# 🚀 Quick Start Guide — Data Science Lab
+# 🚀 Quick Start Guide — Data-Science-Learning-Studio
 
 Get up and running in **under 5 minutes**.
 
@@ -8,8 +8,8 @@ Get up and running in **under 5 minutes**.
 
 ```bash
 # Clone
-git clone https://github.com/your-username/Data-Science-Lab.git
-cd Data-Science-Lab
+git clone https://github.com/nadeem-majeedch/Data-Science-Learning-Studio.git
+cd Data-Science-Learning-Studio
 
 # Create virtual environment (recommended)
 python -m venv venv
