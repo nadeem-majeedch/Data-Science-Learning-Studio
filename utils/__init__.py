@@ -1,1 +1,1 @@
-"""Utility modules for Data Science Lab."""
+"""Utility modules for Data Science Learning Studio."""
