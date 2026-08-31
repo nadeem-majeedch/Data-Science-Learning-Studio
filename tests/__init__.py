@@ -1,1 +1,1 @@
-"""Test suite for Data Science Lab."""
+"""Test suite for Data-Science-Learning-Studio."""
