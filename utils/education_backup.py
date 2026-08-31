@@ -1,5 +1,5 @@
 """
-Educational content library for Data Science Lab.
+Educational content library for Data Science Learning Studio.
 
 Provides structured, academically-focused content for every major
 data science topic.  Each topic entry includes:
