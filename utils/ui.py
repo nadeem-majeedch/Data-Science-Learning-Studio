@@ -1,5 +1,5 @@
 """
-Reusable UI helper functions for Data Science Lab.
+Reusable UI helper functions for Data-Science-Learning-Studio.
 
 Provides consistent page headers, sidebar navigation, module cards,
 and shared layout components used across every page.
