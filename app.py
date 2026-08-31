@@ -1,5 +1,5 @@
 """
-Data Science Lab — Main Application
+Data-Science-Learning-Studio — Main Application
 Polished landing page and sidebar for the educational platform.
 """
 
@@ -125,4 +125,4 @@ st.markdown(
     "University of the Punjab, Lahore"
 )
 st.markdown("---")
-st.caption("Data Science Lab • v1.0.0 • Built with Streamlit")
+st.caption("Data-Science-Learning-Studio • v1.0.0 • Built with Streamlit")

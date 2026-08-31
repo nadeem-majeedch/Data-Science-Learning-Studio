@@ -1,4 +1,4 @@
-# 🔬 Data Science Lab
+#  Data Science Learning Studio
 
 An interactive, open-source learning platform built with **Python** and **Streamlit** for BS Data Science students to explore the full data science pipeline — from raw data to deployed models.
 
@@ -47,8 +47,8 @@ Data Science Lab provides a hands-on, browser-based environment where students c
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/Data-Science-Lab.git
-cd Data-Science-Lab
+git clone https://github.com/nadeem-majeedch/Data-Science-Learning-Studio.git
+cd Data-Science-Learning-Studio
 
 # 2. Create a virtual environment (recommended)
 python -m venv venv
@@ -76,7 +76,7 @@ The application will open in your browser at **http://localhost:8501**.
 ## 📁 Project Structure
 
 ```
-Data-Science-Lab/
+Data-Science-Learning-Studio/
 ├── README.md              # Project documentation
 ├── requirements.txt       # Python dependencies
 ├── .gitignore             # Git ignore rules
