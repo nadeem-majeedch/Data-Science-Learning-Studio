@@ -15,7 +15,7 @@ from utils.ui import (
 
 # ── Page configuration ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="Data Science Lab",
+    page_title="Data Science Learning Studio",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -35,7 +35,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown('<p class="hero-title">📊 Data Science Lab</p>', unsafe_allow_html=True)
+st.markdown('<p class="hero-title">📊 DData-Science-Learning-Studio</p>', unsafe_allow_html=True)
 st.markdown(
     '<p class="hero-sub">An interactive, hands-on platform for learning the full data science pipeline.</p>',
     unsafe_allow_html=True,
