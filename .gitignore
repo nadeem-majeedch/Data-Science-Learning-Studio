@@ -37,6 +37,9 @@ ENV/
 # Streamlit
 .streamlit/secrets.toml
 
+# Runtime artifacts
+experiments.db
+
 # Jupyter
 .ipynb_checkpoints/
 
@@ -50,8 +53,8 @@ ENV/
 *.pickle
 *.joblib
 
-# Except small sample datasets
-!datasets/*.csv
+# Except sample datasets
+!datasets/**/*.csv
 
 # OS files
 .DS_Store
@@ -61,3 +64,9 @@ Thumbs.db
 reports/*.html
 reports/*.png
 reports/*.pdf
+
+# Testing / build caches
+.pytest_cache/
+*.cover
+.coverage
+htmlcov/
