@@ -16,7 +16,7 @@ from utils.ui import (
 # ── Page configuration ──────────────────────────────────────────────
 st.set_page_config(
     page_title="Data Science Learning Studio",
-    page_icon="🔬",
+    page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -35,7 +35,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.markdown('<p class="hero-title">📊 DData-Science-Learning-Studio</p>', unsafe_allow_html=True)
+st.markdown('<p class="hero-title">📊 Data Science Learning Studio</p>', unsafe_allow_html=True)
 st.markdown(
     '<p class="hero-sub">An interactive, hands-on platform for learning the full data science pipeline.</p>',
     unsafe_allow_html=True,
@@ -97,10 +97,10 @@ st.markdown(
 st.markdown("---")
 
 # ── About section ───────────────────────────────────────────────────
-with st.expander("ℹ️ About Data Science Lab", expanded=False):
+with st.expander("ℹ️ About Data Science Learning Studio", expanded=False):
     st.markdown(
         """
-        **Data Science Lab** is an open-source educational tool built with
+        **Data Science Learning Studio** is an open-source educational tool built with
         [Streamlit](https://streamlit.io/) for BS Data Science students.
 
         It provides a guided, visual interface for every stage of the data
