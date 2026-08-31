@@ -1,5 +1,5 @@
 """
-Evaluation utilities for Data Science Lab.
+Evaluation utilities for Data Science Learning Studio.
 
 Provides reusable functions for computing metrics, cross-validation
 scores, and generating Plotly figures for model evaluation.
