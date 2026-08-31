@@ -1,5 +1,5 @@
 """
-Model comparison utilities for Data Science Lab.
+Model comparison utilities for Data Science Learning Studio.
 
 Trains multiple models on the same dataset using the same preprocessing
 pipeline and consistent train/test splits, then produces comparison
