@@ -1,5 +1,5 @@
 """
-Reusable visualisation helpers for Data Science Lab.
+Reusable visualisation helpers for Data-Science-Learning-Studio.
 
 Every public function takes a ``pandas.DataFrame`` (and optional column
 names) and returns a ``plotly.graph_objects.Figure`` or
