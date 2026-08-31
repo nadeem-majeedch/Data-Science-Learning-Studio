@@ -1,5 +1,5 @@
 """
-Experiment tracker for the Data Science Lab.
+Experiment tracker for the Data Science Learning Studio.
 
 Stores ML experiments in a local SQLite database with full metadata:
 dataset, model, hyperparameters, metrics, preprocessing steps, and
