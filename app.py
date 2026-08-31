@@ -125,4 +125,4 @@ st.markdown(
     "University of the Punjab, Lahore"
 )
 st.markdown("---")
-st.caption("Data-Science-Learning-Studio • v1.0.0 • Built with Streamlit")
+st.caption("Data Science Learning Studio • v1.0.0 • Built with Streamlit")
