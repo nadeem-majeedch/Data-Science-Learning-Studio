@@ -1,5 +1,5 @@
 """
-Model training utilities for Data Science Lab.
+Model training utilities for Data Science Learning Studio.
 
 Builds sklearn ``Pipeline`` objects that chain preprocessing
 (ColumnTransformer) with a classifier, preventing data leakage.
