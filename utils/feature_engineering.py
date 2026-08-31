@@ -1,5 +1,5 @@
 """
-Feature engineering utilities for Data Science Lab.
+Feature engineering utilities for Data Science Learning Studio.
 
 Pure functions that create, transform, and select features.  Every
 function returns ``(pd.DataFrame, FeatureStep)`` so the page can
