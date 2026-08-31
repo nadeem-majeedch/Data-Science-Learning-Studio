@@ -1,5 +1,5 @@
 """
-Model registry for Data Science Lab.
+Model registry forData Science Learning Studio.
 
 Defines every supported classifier with its sklearn class, default
 hyperparameters, and educational metadata (description, advantages,
