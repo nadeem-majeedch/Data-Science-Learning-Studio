@@ -1,5 +1,5 @@
 """
-Regression model registry for Data Science Lab.
+Regression model registry for Data-Science-Learning-Studio.
 
 Defines every supported regressor with its sklearn class, default
 hyperparameters, and educational metadata.
