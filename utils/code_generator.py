@@ -1,5 +1,5 @@
 """
-Centralized Python code generator for the Data Science Lab.
+Centralized Python code generator for the Data Science Learning Studio.
 
 Builds complete, runnable, well-commented Python scripts from operations
 tracked across the entire data science pipeline — loading, EDA,
