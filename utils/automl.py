@@ -1,5 +1,5 @@
 """
-Educational AutoML engine for the Data Science Lab.
+Educational AutoML engine for the Data Science Learning Studio.
 
 Orchestrates a complete machine-learning workflow — from raw data
 to a ranked model comparison — using only algorithms already
