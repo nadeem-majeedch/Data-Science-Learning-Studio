@@ -28,7 +28,7 @@ TOPICS = [
             "to find the best dish (model)."
         ),
         example=(
-            "In the Data Science Lab's AutoML module:\n"
+            "In the Data Science Learning Studio's AutoML module:\n"
             "1. Upload a dataset (e.g., Titanic)\n"
             "2. Select the target column\n"
             "3. AutoML automatically detects classification vs regression\n"
