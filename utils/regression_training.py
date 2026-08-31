@@ -1,5 +1,5 @@
 """
-Regression training utilities for Data Science Lab.
+Regression training utilities for Data-Science-Learning-Studio.
 
 Builds sklearn ``Pipeline`` objects that chain preprocessing
 (ColumnTransformer) with a regressor, preventing data leakage.
