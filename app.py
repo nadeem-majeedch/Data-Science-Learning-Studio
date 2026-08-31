@@ -101,7 +101,7 @@ with st.expander("ℹ️ About Data Science Learning Studio", expanded=False):
     st.markdown(
         """
         **Data Science Learning Studio** is an open-source educational tool built with
-        [Streamlit](https://streamlit.io/) for BS Data Science students.
+        [Streamlit](https://streamlit.io/) for AI/Data Science students.
 
         It provides a guided, visual interface for every stage of the data
         science lifecycle — from loading raw CSV files to comparing
