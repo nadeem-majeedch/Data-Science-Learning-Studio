@@ -1,5 +1,5 @@
 """
-Clustering utilities for the Data Science Lab.
+Clustering utilities for the Data Science Learning Studio.
 
 Provides reusable functions for K-Means, DBSCAN, and Agglomerative
 Clustering, including preprocessing, evaluation, and code generation.
