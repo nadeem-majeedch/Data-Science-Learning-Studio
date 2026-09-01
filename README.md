@@ -2,6 +2,10 @@
 
 An interactive, open-source learning platform built with **Python** and **Streamlit** for BS Data Science students to explore the full data science pipeline — from raw data to deployed models.
 
+[![Streamlit App](https://streamlit.io)](https://ds-learning-studio.streamlit.app/)
+
+
+
 ---
 
 ## 🎯 Purpose
